@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá, meu nome é Alline faria, sou professora de Educação Física, porém no momento estou estudando programação.
+
 <!--
 **Allinefaria/Allinefaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
